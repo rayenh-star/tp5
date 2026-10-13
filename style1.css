@@ -1,0 +1,16 @@
+table{
+    border: 1px solid black ;
+    border-collapse: collapse;
+    margin: auto;
+}
+th,td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 12px;
+}
+th{
+    background-color: lightblue;
+}
+tr:hover{
+    background-color: lightgray;
+}
